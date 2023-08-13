@@ -1,1 +1,1 @@
-# NepaleseBoxTiffin
+The Nepalese Box Tiffin Service Website project aims to create an online platform offering authentic Nepalese tiffin services. The website will serve as a convenient and reliable platform for customers to discover a variety of traditional Nepalese tiffin options and place orders for daily or weekly meal deliveries. The project intends to meet the increasing demand for homemade, healthy, and flavorful Nepalese meals, targeting busy professionals, students, and individuals seeking convenient and delicious food options.
